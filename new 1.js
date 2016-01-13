@@ -5,3 +5,4 @@ if(jack + 5 = 20) {
 else() {
 	console.log("nana")
 }
+}
